@@ -12,6 +12,13 @@
   align-items: center;
 }
 
+.connect-button {
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  background-color: #0070f3;
+  border: 2px solid #222;
+}
+
 .footer {
   display: flex;
   flex: 1;
